@@ -86,7 +86,7 @@ I love exploring new technologies and building projects that solve real-world pr
 ## 📫 Let's Connect!  
 Feel free to reach out to me for collaborations, discussions, or just to say hi!  
 - **Email**: gunavardhan_byraju@srmap.edu.in  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile) <!-- Replace with your LinkedIn link -->  
+- **LinkedIn**: [Your LinkedIn Profile](http://www.linkedin.com/in/guna-byraju) <!-- Replace with your LinkedIn link -->  
 - **GitHub**: [Guna42](https://github.com/Guna42)  
 
 ---

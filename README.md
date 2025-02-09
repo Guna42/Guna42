@@ -1,6 +1,6 @@
 # Hi, I'm Guna Vardhan Byraju! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile) <!-- Replace with your LinkedIn link -->
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Guna42)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:gunavardhan_byraju@srmap.edu.in)
 
@@ -86,7 +86,7 @@ I love exploring new technologies and building projects that solve real-world pr
 ## 📫 Let's Connect!  
 Feel free to reach out to me for collaborations, discussions, or just to say hi!  
 - **Email**: gunavardhan_byraju@srmap.edu.in  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile) <!-- Replace with your LinkedIn link -->  
 - **GitHub**: [Guna42](https://github.com/Guna42)  
 
 ---

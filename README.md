@@ -1,97 +1,94 @@
-# Hi, I'm Guna Vardhan Byraju! 👋
+<!-- Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=Guna42&color=blue)
+
+<h1 align="center"> < Hello World, I'm Guna Vardhan Byraju /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<img align='right' src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="300px">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://www.linkedin.com/in/guna-byraju) 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Guna42)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://portfolio-orcin-eta-53.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:gunavardhan_byraju@srmap.edu.in)
 
-I'm a passionate **Computer Science and Engineering** student at SRM Institute of Science and Technology, Amaravati, with a strong interest in **Machine Learning, Data Science, and Web Development**. I enjoy solving real-world problems by building innovative projects and contributing to open-source communities.
+---
+
+## 🏆 Highlights
+- 🏆 **Winner of HackVyuha 2k25** for "Her Haven" women's safety platform
+- 🤖 **Machine Learning Intern** @ Infosys Springboard (Fraud Detection Systems)
+- 🌱 **Building AgriSage** - AI-powered agricultural solution
+- 📚 **B.Tech CSE** @ SRM University (2023-2027)
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 Featured Projects
 
-**Programming Languages**:  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 1. 🛡️ Her Haven - Women's Safety Platform
+**HackVyuha 2k25 Winner** | [![GitHub](https://img.shields.io/badge/Code-View-black)](https://github.com/Guna42/HerHaven)
+- AI avatar, health tracking, secure steganography messaging
+- Tech: React, Node.js, Flask, Socket.IO, StegCloak
 
-**Machine Learning & Data Science**:  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 2. 💻 Online Payment Fraud Detection
+**Infosys Internship Project** | [![GitHub](https://img.shields.io/badge/Code-View-black)](https://github.com/Guna42/FraudDetection)
+- ML pipeline with 98% accuracy using feature engineering
+- Tech: TensorFlow, Scikit-learn, Streamlit
 
-**Web Development**:  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools**:  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Data Structures & Algorithms**:  
-![DSA](https://img.shields.io/badge/DSA-FFA500?style=for-the-badge&logo=java&logoColor=white)
+### 3. 🌱 AgriSage - Smart Agriculture
+[![GitHub](https://img.shields.io/badge/Code-View-black)](https://github.com/Guna42/AgriSage)
+- Crop disease detection & suitability analysis using CV
+- Tech: Python, Flask, TensorFlow, OpenCV
 
 ---
 
-## 🚀 Projects
+## 🧰 My Toolbox
+<img align='right' src="https://user-images.githubusercontent.com/43414928/212058957-d41e56ae-11ea-4cea-8e2c-ffda67a592a7.png" width="300px">
 
-### 1. **Online Payment Fraud Detection**
-   - Developed a machine learning pipeline to detect fraudulent transactions.
-   - Built an interactive **Streamlit-based interface** for seamless user interaction.
-   - **Technologies**: TensorFlow, Scikit-learn, Streamlit.
+**Cloud & DevOps:**  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-   [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/Guna42/Online-Payment-Fraud-Detection)
+**Workflow Orchestration:**  
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 2. **Optimized Airline Reservation System**
-   - Designed a reservation management system using **hash tables and sorting algorithms** for enhanced performance.
-   - **Technologies**: C, C++, Data Structures & Algorithms.
+**Front-end Development:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-   [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/Guna42/Airline-Reservation-System)
+**Backend Development:**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 3. **Amazon Clone**
-   - Developed a fully responsive e-commerce website mimicking Amazon’s design.
-   - **Technologies**: HTML, CSS.
-
-   [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/Guna42/Amazon_clone)
-
----
-
-## 💼 Work Experience
-
-### **Machine Learning Intern – Infosys Springboard**  
-**August 2024 – December 2024**  
-- Designed and implemented a machine learning model for fraud detection in online payments.
-- Built a user-friendly interface with **Streamlit** for seamless interaction with the model.
-
-### **Machine Learning Intern – Prodigy Infotech**  
-**June 2024 – July 2024**  
-- Contributed to the development of machine learning solutions for real-world problems.
-- Focused on **data preprocessing, feature engineering, and training ML models**.
+**DevOps & Tools:**  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 
 ---
 
-## 📚 Education
+## 📈 GitHub Stats
 
-**Bachelor of Technology (B.Tech.) in Computer Science and Engineering**  
-SRM Institute of Science and Technology, Amaravati, India  
-**2023 – 2027**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guna42&show_icons=true&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guna42&theme=radical&hide_border=true" width="400"/>
+</p>
 
----
-
-## 🌟 Fun Fact  
-I love exploring new technologies and building projects that solve real-world problems. When I'm not coding, I enjoy reading tech blogs and participating in hackathons!
+[![trophy](https://github-profile-trophy.vercel.app/?username=Guna42&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 📫 Let's Connect!  
-Feel free to reach out to me for collaborations, discussions, or just to say hi!  
-- **Email**: gunavardhan_byraju@srmap.edu.in  
-- **LinkedIn**: [Guna Byraju](http://www.linkedin.com/in/guna-byraju)  
-- **GitHub**: [Guna42](https://github.com/Guna42)  
+## 🌟 Currently...
+- 🔭 Working on enhancing AgriSage with NLP capabilities
+- 🌱 Learning AWS Machine Learning services
+- 👯 Looking to collaborate on open-source ML projects
+- 💬 Ask me about Computer Vision or Full-Stack development
+- ⚡ Fun fact: I can solve Rubik's cube in under 2 minutes!
 
 ---
 
-⭐️ **Star my repositories** if you find them interesting!  
-🔭 **I’m currently working on** improving my skills in Machine Learning and Web Development.  
-🌱 **I’m currently learning** advanced Data Structures and Algorithms.  
-👯 **I’m looking to collaborate on** open-source projects related to ML and Web Dev.  
+<h3 align="center">Let's build something amazing together!</h3>
+<p align="center">
+  <a href="mailto:gunavardhan_byraju@srmap.edu.in"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge"></a>
+  <a href="http://www.linkedin.com/in/guna-byraju"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
+  <a href="https://portfolio-orcin-eta-53.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge"></a>
+</p>

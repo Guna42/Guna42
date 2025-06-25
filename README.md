@@ -70,7 +70,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Guna42&show_icons=true&theme=radical&hide_border=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guna42&theme=radical&hide_border=true" width="400"/>
+
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Guna42&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

@@ -82,7 +82,7 @@ A passionate **Full-Stack Web Developer** and **AI/ML Engineer** from India, cra
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Cloud & DevOps*
+### **Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -92,7 +92,7 @@ A passionate **Full-Stack Web Developer** and **AI/ML Engineer** from India, cra
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Guna42&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guna42&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Guna42&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">

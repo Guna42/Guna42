@@ -9,7 +9,7 @@
 
 ![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=28&pause=1000&color=00ff88&width=500&lines=Full-Stack+Web+Developer;AI%2FML+Engineer;)
 
-A passionate **Full-Stack Web Developer** and **AI/ML Engineer** from India, crafting intelligent web applications that bridge the gap between cutting-edge AI and seamless user experiences. Winner of **HackVyuha 2k25** and **ML Intern at Infosys Springboard**. 🚀💻🏆
+A passionate **Full-Stack Web Developer** and **AI/ML Engineer** from India, crafting intelligent web applications that bridge the gap between cutting-edge AI and seamless user experiences. Winner of **HackVyuha 2k25** and **ML Intern at Infosys Springboard**. 💻🏆
 
 [![Email](https://img.shields.io/badge/Email-Contact-%23ea4335.svg?logo=gmail&labelColor=181717&longCache=true&style=for-the-badge)](mailto:gunavardhan_byraju@srmap.edu.in)
 

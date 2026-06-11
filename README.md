@@ -4,15 +4,28 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=🧠+AI+%2F+ML+Architect;🚀+Full-Stack+Technical+Lead;🏆+4x+Hackathon+Winner+%7C+₹70K+in+Prizes;💡+RAG+%7C+LLMs+%7C+GNNs+%7C+Vector+DBs;🌱+Building+AI+That+Feels+Human)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=🧠+AI+%2F+ML+Architect;🚀+Full-Stack+Technical+Lead;🏆+4x+Hackathon+Winner+%7C+₹70K+in+Prizes;💡+RAG+%7C+LLMs+%7C+GNNs+%7C+Vector+DBs;🌱+Building+AI+That+Feels+Human)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-orcin-eta-53.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/guna-byraju)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunavardhan_byraju@srmap.edu.in)
+[![Emolit](https://img.shields.io/badge/Emolit_Live-10b981?style=for-the-badge&logo=amazonaws&logoColor=white)](https://emolit.duckdns.org)
+
+<br/>
+
+![](https://img.shields.io/badge/🏆_Hackathons-4_Wins-7c3aed?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/💰_Cash_Prizes-₹70%2C000-06b6d4?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/🌱_Research_Grant-₹50%2C000-10b981?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/🔬_Live_Products-3-f59e0b?style=for-the-badge&labelColor=0d0d0d)
+![Profile Views](https://komarev.com/ghpvc/?username=Guna42&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<table width="100%">
-<tr>
-<td width="58%" valign="middle">
+<img align="right" src="https://user-images.githubusercontent.com/43414928/212058957-d41e56ae-11ea-4cea-8e2c-ffda67a592a7.png" width="300px"/>
 
 ```python
 class GunaVardhan:
@@ -25,47 +38,17 @@ class GunaVardhan:
     fun_fact    = "Solves Rubik's cube in under 2 minutes ⚡"
 ```
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-orcin-eta-53.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/guna-byraju)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunavardhan_byraju@srmap.edu.in)
-[![Emolit](https://img.shields.io/badge/Emolit_Live-10b981?style=for-the-badge&logo=amazonaws&logoColor=white)](https://emolit.duckdns.org)
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/43414928/212058957-d41e56ae-11ea-4cea-8e2c-ffda67a592a7.png" width="300px"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-![](https://img.shields.io/badge/🏆_Hackathons_Won-4-7c3aed?style=for-the-badge&labelColor=0d0d0d)
-![](https://img.shields.io/badge/💰_Cash_Prizes-₹70%2C000-06b6d4?style=for-the-badge&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🌱_Research_Grant-₹50%2C000-10b981?style=for-the-badge&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🔬_Projects_Live-3-f59e0b?style=for-the-badge&labelColor=0d0d0d)
-![Profile Views](https://komarev.com/ghpvc/?username=Guna42&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+<br/><br/><br/>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Guna42&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=06b6d4&text_color=ffffff&ring_color=7c3aed"/>
 <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Guna42&theme=radical&hide_border=true&background=0d0d0d&ring=7c3aed&fire=06b6d4&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888"/>
-
 <br/><br/>
-
 <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guna42&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff&langs_count=8"/>
-
 </div>
 
 ---
@@ -84,12 +67,9 @@ class GunaVardhan:
 
 ## 🚀 Featured Projects
 
-<!-- ═══════════════ EMOLIT FLAGSHIP ═══════════════ -->
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
+### 🧠 Emolit — AI Mental Health & Emotion Platform &nbsp;[![LIVE](https://img.shields.io/badge/LIVE-10b981?style=flat-square&logo=amazonaws&logoColor=white)](https://emolit.duckdns.org)
 
-### 🧠 Emolit — AI Mental Health & Emotion Platform &nbsp; [![LIVE](https://img.shields.io/badge/LIVE-10b981?style=flat-square&logo=amazonaws&logoColor=white)](https://emolit.duckdns.org)
+<img align="right" src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="200px"/>
 
 > **3 ideathon wins · ₹70,000 in prizes · ₹50,000 research grant — built entirely solo.**
 
@@ -106,98 +86,50 @@ Full production platform — **web + Android** — deployed on **AWS EC2**. Jour
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-</td>
-<td width="38%" align="center" valign="middle">
+<br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="220px"/>
+---
 
-<br/>
+### 💬 RepoTalk — AI Codebase Assistant &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/repotalk)
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220px"/>
+<img align="right" src="https://media.giphy.com/media/ZVik7pIojeebDd4bHi/giphy.gif" width="180px"/>
 
-</td>
-</tr>
-</table>
+Natural language querying of **any GitHub repo**. AST-aware semantic chunking via **Tree-sitter**, hybrid retrieval (dense vector + BM25), streaming SSE responses with `file:line` citations. Full stack: Next.js 14 frontend, Node.js/Express gateway, FastAPI AI service, Qdrant vector DB, Groq Llama 3.3 70B inference — deployed via Docker Compose.
 
-<br/>
-
-<!-- ═══════════════ PROJECT GRID ═══════════════ -->
-<table width="100%">
-<tr>
-
-<!-- REPOTALK -->
-<td width="50%" valign="top">
-
-<table width="100%">
-<tr>
-<td valign="top" width="65%">
-
-### 💬 RepoTalk
-#### AI Codebase Assistant
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/repotalk)
-
-Natural language querying of **any GitHub repo**. AST-aware chunking via **Tree-sitter**, hybrid dense+BM25 retrieval, streaming SSE with `file:line` citations.
-
-**RAGAS `0.87` · Latency `< 3s`**
+**RAGAS Faithfulness `0.87` · Latency `< 3s`**
 
 ![Next.js 14](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq_Llama_3.3-F54D27?style=flat-square)
+![Groq Llama 3.3](https://img.shields.io/badge/Groq_Llama_3.3-F54D27?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</td>
-<td valign="middle" align="center" width="35%">
-<img src="https://media.giphy.com/media/ZVik7pIojeebDd4bHi/giphy.gif" width="100px"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
-</td>
+---
 
-<!-- HER HAVEN -->
-<td width="50%" valign="top">
+### 🛡️ Her Haven — Women's Safety Platform &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/HerHaven)
 
-<table width="100%">
-<tr>
-<td valign="top" width="65%">
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180px"/>
 
-### 🛡️ Her Haven
-#### Women's Safety Platform
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/HerHaven)
-
-**🏆 HackVyuha 2k25 National Winner** — 750+ teams. AI avatar assistance, health tracking, steganography messaging via StegCloak.
+**🏆 HackVyuha 2k25 National Winner** — 750+ teams at GeeksForGeeks national level. AI avatar assistance, health tracking, and secure steganography messaging via StegCloak. Built for real-world social impact, recognized for innovation in women's safety tech.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio)
-![CV](https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square)
+![StegCloak](https://img.shields.io/badge/StegCloak-06b6d4?style=flat-square)
 
-</td>
-<td valign="middle" align="center" width="35%">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100px"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
-</td>
-</tr>
+---
 
-<tr>
+### 💳 Fraud Detection Platform — Infosys Springboard &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/FraudDetection)
 
-<!-- FRAUD DETECTION -->
-<td width="50%" valign="top">
+<img align="right" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="180px"/>
 
-<table width="100%">
-<tr>
-<td valign="top" width="65%">
-
-### 💳 Fraud Detection
-#### Infosys Springboard
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/FraudDetection)
-
-Explainable AI over **6.36M+ transactions** — LightGBM + SHAP + RAG-grounded LLM reports via ChromaDB. Real-time scoring, batch scanning, executive dashboards.
+Explainable AI fraud detection over **6.36M+ transactions** — LightGBM with SHAP-based explainability, RAG-grounded LLM investigation reports via ChromaDB, real-time transaction scoring, batch CSV scanning, risk simulator, model benchmarking, and executive dashboards. Stack: FastAPI, React.js, Python.
 
 **ROC-AUC `0.92` · Fraud Recall `95%`**
 
@@ -207,28 +139,15 @@ Explainable AI over **6.36M+ transactions** — LightGBM + SHAP + RAG-grounded L
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-</td>
-<td valign="middle" align="center" width="35%">
-<img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100px"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
-</td>
+---
 
-<!-- FARMEASY -->
-<td width="50%" valign="top">
+### 🌱 FarmEasy — Smart Agriculture AI &nbsp;[![Live](https://img.shields.io/badge/Live-10b981?style=flat-square)](http://13.60.229.213/) &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/Agrisage)
 
-<table width="100%">
-<tr>
-<td valign="top" width="65%">
+<img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="180px"/>
 
-### 🌱 FarmEasy
-#### Smart Agriculture AI
-[![Live](https://img.shields.io/badge/Live-10b981?style=flat-square)](http://13.60.229.213/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/Agrisage)
-
-CNN crop disease detection at **95%+ accuracy** across 20+ crop types. Modular Flask backend — serving real farmers on live AWS deployment.
+CNN-powered crop disease detection at **95%+ accuracy** across 20+ crop types. Modular Flask backend with cleanly separated inference, auth, and API layers. Integrated secure session management, structured prediction pipelines, and scalable request handling — serving real farmers via live AWS deployment.
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -236,68 +155,33 @@ CNN crop disease detection at **95%+ accuracy** across 20+ crop types. Modular F
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-</td>
-<td valign="middle" align="center" width="35%">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100px"/>
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
 ## 💼 Experience
 
-<table width="100%">
-<tr>
+### 🔬 Research Intern — Fog-Enabled Smart Hospital Systems &nbsp; `May 2025 – Jul 2025`
 
-<td width="50%" valign="top">
-<table width="100%">
-<tr>
-<td width="70%" valign="top">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px"/>
 
-**🔬 Research Intern**
-**Fog-Enabled Smart Hospital Systems**
-`May 2025 – Jul 2025`
+Built **FastAPI** backend wiring **GNN-based** robotic tracking with **RL scheduling** across distributed fog nodes. Owned end-to-end API layer: schema design, async request handling, and inter-service orchestration under real-time constraints across **5+ microservices**.
 
-Built **FastAPI** backend wiring **GNN-based** robotic tracking with **RL scheduling** across distributed fog nodes. Owned API schema, async handling, inter-service orchestration across **5+ microservices**.
+📉 Latency ↓ **68%** &nbsp;&nbsp;&nbsp; ⚡ Energy ↓ **20%**
 
-📉 Latency ↓ **68%** &nbsp;&nbsp; ⚡ Energy ↓ **20%**
+<br clear="right"/>
 
-</td>
-<td width="30%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90px"/>
-</td>
-</tr>
-</table>
-</td>
+---
 
-<td width="50%" valign="top">
-<table width="100%">
-<tr>
-<td width="70%" valign="top">
+### 🤖 Machine Learning Intern — Infosys Springboard &nbsp; `Oct 2024 – Jan 2025`
 
-**🤖 Machine Learning Intern**
-**Infosys Springboard**
-`Oct 2024 – Jan 2025`
+<img align="right" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="180px"/>
 
-Built explainable AI fraud detection over **6.36M+ transactions**. SHAP explainability, RAG LLM reports, real-time scoring pipeline, analyst dashboards.
+Built explainable AI fraud detection platform over **6.36M+ transactions** using LightGBM with SHAP-based explainability and real-time transaction scoring. Implemented RAG-grounded LLM investigation reports via ChromaDB with full analyst workflows: batch CSV scanning, risk simulator, model benchmarking, and executive dashboards.
 
-📊 ROC-AUC **0.92** &nbsp;&nbsp; 🎯 Fraud Recall **95%**
+📊 ROC-AUC **0.92** &nbsp;&nbsp;&nbsp; 🎯 Fraud Recall **95%**
 
-</td>
-<td width="30%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="90px"/>
-</td>
-</tr>
-</table>
-</td>
-
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -384,7 +268,7 @@ Built explainable AI fraud detection over **6.36M+ transactions**. SHAP explaina
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
 
-*"The best products don't just solve problems — they make people feel something."*
+*"Hustle in silence and let your success make the noise."*
 
 <br/>
 

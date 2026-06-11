@@ -1,159 +1,328 @@
-# 👋 Guna Vardhan Byraju [![Portfolio](https://img.shields.io/badge/Portfolio-%E2%9D%A4-%2300ff88.svg?&logo=vercel&logoColor=white&labelColor=181717&style=flat-square)](https://portfolio-orcin-eta-53.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%9D%A4-%230077b5.svg?&logo=linkedin&logoColor=white&labelColor=181717&style=flat-square)](http://www.linkedin.com/in/guna-byraju)
+<div align="center">
 
-<!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=Guna42&color=blue&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:3b0764,70:7c3aed,100:06b6d4&height=280&section=header&text=GUNA%20VARDHAN&fontSize=78&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=BYRAJU&descSize=48&descFontColor=c4b5fd&descAlignY=64&descAlign=50&stroke=7c3aed&strokeWidth=3&animation=fadeIn" width="100%"/>
 
-<!-- markdownlint-disable MD033 -->
-<img align='right' src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="300px">
-<!-- markdownlint-enable MD033 -->
-
-![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=28&pause=1000&color=00ff88&width=500&lines=Full-Stack+Web+Developer;AI%2FML+Engineer;)
-
-A passionate **Full-Stack Web Developer** and **AI/ML Engineer** from India, crafting intelligent web applications that bridge the gap between cutting-edge AI and seamless user experiences. Winner of **HackVyuha 2k25** and **ML Intern at Infosys Springboard**. 💻🏆
-
-[![Email](https://img.shields.io/badge/Email-Contact-%23ea4335.svg?logo=gmail&labelColor=181717&longCache=true&style=for-the-badge)](mailto:gunavardhan_byraju@srmap.edu.in)
-
-## 🏆 Achievements & Highlights
-
-- 🏆 **Winner of HackVyuha 2k25** - "Her Haven" women's safety platform
-- 💻 **Full-Stack Web Developer** with AI/ML integration expertise
-- 🌱 **Building AgriSage** - AI-powered web application with 95%+ accuracy
-- 📚 **B.Tech CSE** @ SRM University (2023-2027) - Pursuing Excellence
-- 🔍 **98% Accuracy** achieved in ML-powered web app for fraud detection
-- 💻 **Tech Stack Master**: React, Node.js, Python, TensorFlow ecosystem
-- ⚡ **Fun Fact**: Can solve Rubik's cube in under 2 minutes!
-
-## 🚀 Featured Projects & Portfolio
-
-### 1. 🛡️ Her Haven - Women's Safety Platform
-**🏆 HackVyuha 2k25 Winner** | [![GitHub](https://img.shields.io/badge/Code-%23181717.svg?logo=github&logoColor=white&style=flat-square)](https://github.com/Guna42/HerHaven) [![Live](https://img.shields.io/badge/Live-%2300ff88.svg?logo=vercel&logoColor=white&style=flat-square)](#)
-- **Impact**: Revolutionary women's safety platform with AI-powered features
-- **Features**: AI avatar assistance, health tracking, secure steganography messaging
-- **Tech Stack**: React, Node.js, Flask, Socket.IO, StegCloak, Computer Vision
-- **Achievement**: Recognized for innovation and social impact
-
-### 2. 💳 Online Payment Fraud Detection
-**Infosys Springboard Project** | [![GitHub](https://img.shields.io/badge/Code-%23181717.svg?logo=github&logoColor=white&style=flat-square)](https://github.com/Guna42/FraudDetection) [![Demo](https://img.shields.io/badge/Demo-%23ff6b6b.svg?logo=streamlit&logoColor=white&style=flat-square)](#)
-- **Performance**: 98% accuracy with advanced feature engineering
-- **Scale**: Processes 1M+ transactions with real-time detection
-- **Tech Stack**: TensorFlow, Scikit-learn, Pandas, Streamlit
-- **Impact**: Deployed ML pipeline saving potential financial losses
-
-### 3. 🌱 AgriSage - Smart Agriculture AI
-[![GitHub](https://img.shields.io/badge/Code-%23181717.svg?logo=github&logoColor=white&style=flat-square)](https://github.com/Guna42/AgriSage) [![Live](https://img.shields.io/badge/Live-%2300ff88.svg?logo=vercel&logoColor=white&style=flat-square)](#)
-- **Innovation**: Crop disease detection & suitability analysis using Computer Vision
-- **Accuracy**: 95%+ disease detection accuracy across 20+ crop types
-- **Tech Stack**: Python, Flask, TensorFlow, OpenCV, CNN, Image Processing
-- **Future**: Expanding with NLP capabilities for farmer queries
-
-<!-- markdownlint-disable MD033 -->
-<img align='right' src="https://user-images.githubusercontent.com/43414928/212058957-d41e56ae-11ea-4cea-8e2c-ffda67a592a7.png" width="280px">
-<!-- markdownlint-enable MD033 -->
-
-## 🛠️ Technology Arsenal
-
-### **Full-Stack Web Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **AI/ML Integration**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Design & UI/UX**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-## 📈 GitHub Stats & Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guna42&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Guna42&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guna42&layout=compact&theme=radical&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Guna42&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-### 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guna42&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
-## 🌟 Current Focus & Learning Journey
-
-- 🔭 **Current Project**: Enhancing AgriSage with advanced NLP capabilities for multilingual farmer support
-- 🌱 **Learning Path**: Deep diving into AWS Machine Learning services and MLOps best practices  
-- 👯 **Collaboration**: Actively seeking opportunities in open-source ML and full-stack projects
-- 💬 **Ask Me About**: Full-Stack Web Development, AI/ML Integration, React, Node.js, or Python
-- 🎯 **2025 Goals**: Contribute to 10+ open-source projects, launch AgriSage commercially, master MLOps
-
-## 💡 Professional Experience
-
-**Full-Stack Web Developer with AI/ML Integration @ Various Projects** (2023 - Present)
-- Built intelligent web applications combining React/Node.js with AI/ML models
-- Integrated TensorFlow models into production web applications
-- Developed responsive, user-friendly interfaces with modern frameworks
-- Optimized application performance and implemented real-time features
-
-**Machine Learning Intern @ Infosys Springboard** (2024)
-- Developed fraud detection web application with 98% accuracy
-- Implemented real-time ML pipeline processing 1M+ transactions
-- Created interactive dashboard using React and Flask integration
-- Collaborated with cross-functional teams on model deployment
-
-## 🤝 Let's Connect & Collaborate!
-
-I'm always excited to work on innovative projects that make a real impact. Whether it's building the next big thing in AI-powered web applications, contributing to open-source, or discussing the latest in full-stack development - let's connect!
-
-<!-- markdownlint-disable MD033 -->
-<p align="center">
-  <a href="mailto:gunavardhan_byraju@srmap.edu.in">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-%23ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="http://www.linkedin.com/in/guna-byraju">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://portfolio-orcin-eta-53.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-%2300ff88.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-<!-- markdownlint-enable MD033 -->
+</div>
 
 ---
 
-<!-- markdownlint-disable MD033 -->
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i><br/>
-  💻🚀🏆 Crafted with passion by <b>Guna Vardhan Byraju</b> - Full-Stack Web Developer & AI/ML Engineer
-</p>
-<!-- markdownlint-enable MD033 -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=🧠+AI+%2F+ML+Architect;🚀+Full-Stack+Technical+Lead;🏆+4x+Hackathon+Winner+%7C+₹70K+in+Prizes;💡+RAG+%7C+LLMs+%7C+GNNs+%7C+Vector+DBs;🌱+Building+AI+That+Feels+Human)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<!-- ABOUT ME SECTION: GIF RIGHT, TEXT LEFT — clean table approach -->
+<table>
+<tr>
+<td width="58%" valign="middle">
+
+```python
+class GunaVardhan:
+    role        = "Full-Stack Technical Lead  |  AI/ML Architect"
+    location    = "Andhra Pradesh, India 🇮🇳"
+    university  = "SRM University AP · B.Tech CSE · 2023–2027"
+    flagship    = "Emolit — AI Mental Health Platform 🧠"
+    wins        = "₹70,000 prizes  +  ₹50,000 research grant"
+    superpower  = "Building products that feel alive."
+    fun_fact    = "Solves Rubik's cube in under 2 minutes ⚡"
+```
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-orcin-eta-53.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/guna-byraju)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunavardhan_byraju@srmap.edu.in)
+[![Emolit](https://img.shields.io/badge/Emolit_Live-10b981?style=for-the-badge&logo=amazonaws&logoColor=white)](https://emolit.duckdns.org)
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/43414928/212058957-d41e56ae-11ea-4cea-8e2c-ffda67a592a7.png" width="320px"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- QUICK WIN BADGES -->
+<div align="center">
+
+![](https://img.shields.io/badge/🏆_Hackathons_Won-4-7c3aed?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/💰_Cash_Prizes-₹70%2C000-06b6d4?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/🌱_Research_Grant-₹50%2C000-10b981?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/🔬_Projects_Live-3-f59e0b?style=for-the-badge&labelColor=0d0d0d)
+![Profile Views](https://komarev.com/ghpvc/?username=Guna42&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Guna42&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=06b6d4&text_color=ffffff&ring_color=7c3aed"/>
+<img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Guna42&theme=radical&hide_border=true&background=0d0d0d&ring=7c3aed&fire=06b6d4&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888"/>
+
+<br/><br/>
+
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guna42&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff&langs_count=8"/>
+
+</div>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guna42/Guna42/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guna42/Guna42/output/github-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Guna42/Guna42/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- EMOLIT FLAGSHIP — full width -->
+<table width="100%">
+<tr>
+<td valign="top">
+
+<h3>🧠 Emolit — AI Mental Health & Emotion Platform &nbsp;<a href="https://emolit.duckdns.org"><img src="https://img.shields.io/badge/LIVE-10b981?style=flat-square&logo=amazonaws&logoColor=white"/></a></h3>
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+> **3 ideathon wins · ₹70,000 in prizes · ₹50,000 research grant — built entirely solo.**
+
+Full production platform — web + Android — deployed on **AWS EC2**. Journal entries flow through a **Claude AI (Anthropic) RAG pipeline** grounded in RULER psychological frameworks, generating deeply empathetic mirror responses. Features interactive emotion wheel, visual mood calendar, daily affirmation engine.
+
+**🥇 Texpo26** · Best Technical Innovation · ₹10,000 · 600+ teams<br/>
+**🥇 VLaunchPad (VIT)** · Best Beginner Stage Startup · ₹10,000 · 1500+ teams<br/>
+**🌱 ₹50,000 Research Seed Grant** — SRM University AP
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-7c3aed?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-06b6d4?style=flat-square)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+<td width="32%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="180px"/>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT GRID 2x2 -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 RepoTalk — AI Codebase Assistant
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/repotalk)
+
+Natural language querying of **any GitHub repo**. AST-aware semantic chunking via **Tree-sitter**, hybrid retrieval (dense vector + BM25), streaming SSE with `file:line` citations.
+
+**RAGAS Faithfulness `0.87` · Latency `< 3s`**
+
+![Next.js 14](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Groq Llama 3.3](https://img.shields.io/badge/Groq_Llama_3.3-F54D27?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Her Haven — Women's Safety Platform
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/HerHaven)
+
+**🏆 HackVyuha 2k25 National Winner** — 750+ teams at GeeksForGeeks. AI avatar assistance, health tracking, steganography messaging via StegCloak.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Fraud Detection — Infosys Springboard
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/FraudDetection)
+
+Explainable AI over **6.36M+ transactions** — LightGBM + SHAP + RAG-grounded LLM investigation reports via ChromaDB. Real-time scoring, batch scanning, executive dashboards.
+
+**ROC-AUC `0.92` · Fraud Recall `95%`**
+
+![LightGBM](https://img.shields.io/badge/LightGBM-006400?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-06b6d4?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 FarmEasy — Smart Agriculture AI
+[![Live](https://img.shields.io/badge/Live-10b981?style=flat-square)](http://13.60.229.213/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/Agrisage)
+
+CNN crop disease detection at **95%+ accuracy** across 20+ crop types. Modular Flask backend, structured inference + auth layers, serving real farmers via live AWS deployment.
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔬 Research Intern — Fog-Enabled Smart Hospital Systems**
+`May 2025 – Jul 2025`
+
+Built **FastAPI** backend wiring **GNN-based** robotic tracking with **RL scheduling** across distributed fog nodes. Owned API schema design, async request handling, and inter-service orchestration across **5+ microservices**.
+
+📉 Latency ↓ **68%** &nbsp;&nbsp; ⚡ Energy ↓ **20%**
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 Machine Learning Intern — Infosys Springboard**
+`Oct 2024 – Jan 2025`
+
+Built explainable AI fraud detection over **6.36M+ transactions**. SHAP-based explainability, RAG-grounded LLM investigation reports, real-time scoring pipeline, analyst dashboards.
+
+📊 ROC-AUC **0.92** &nbsp;&nbsp; 🎯 Fraud Recall **95%**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+**Databases & Vector Stores**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant_VectorDB-DC244C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-06b6d4?style=for-the-badge)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 🏅 Achievement Wall
+
+<div align="center">
+
+| 🎖️ | Competition | Host | Scale | Prize |
+|:---:|---|---|---|:---:|
+| 🥇 | **Texpo26** · Best Technical Innovation | SRM AP | 600+ teams | ₹10,000 |
+| 🥇 | **VLaunchPad** · Best Beginner Startup | VIT | 1500+ teams | ₹10,000 |
+| 🥇 | **HackVyuha 2k25** · Her Haven | GeeksForGeeks | 750+ teams | 🏆 National |
+| 🥈 | **IdeaSprint** · ClauseCheck | VIT | 200+ teams | 🏆 National |
+| 🌱 | **Research Seed Grant** · Emolit | SRM University AP | — | ₹50,000 |
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guna42&theme=react-dark&hide_border=true&area=true&color=a78bfa&line=7c3aed&point=06b6d4&area_color=7c3aed" width="100%"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+*"The best products don't just solve problems — they make people feel something."*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-orcin-eta-53.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/guna-byraju)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunavardhan_byraju@srmap.edu.in)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guna42)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:06b6d4,100:0d0d0d&height=130&section=footer" width="100%"/>

@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:3b0764,70:7c3aed,100:06b6d4&height=280&section=header&text=GUNA%20VARDHAN&fontSize=78&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=BYRAJU&descSize=48&descFontColor=c4b5fd&descAlignY=64&descAlign=50&stroke=7c3aed&strokeWidth=3&animation=fadeIn" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=🧠+AI+%2F+ML+Architect;🚀+Full-Stack+Technical+Lead;🏆+4x+Hackathon+Winner+%7C+₹70K+in+Prizes;💡+RAG+%7C+LLMs+%7C+GNNs+%7C+Vector+DBs;🌱+Building+AI+That+Feels+Human)](https://git.io/typing-svg)
 
@@ -14,8 +10,7 @@
 
 ---
 
-<!-- ABOUT ME SECTION: GIF RIGHT, TEXT LEFT — clean table approach -->
-<table>
+<table width="100%">
 <tr>
 <td width="58%" valign="middle">
 
@@ -40,7 +35,7 @@ class GunaVardhan:
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/43414928/212058957-d41e56ae-11ea-4cea-8e2c-ffda67a592a7.png" width="320px"/>
+<img src="https://user-images.githubusercontent.com/43414928/212058957-d41e56ae-11ea-4cea-8e2c-ffda67a592a7.png" width="300px"/>
 
 </td>
 </tr>
@@ -48,7 +43,6 @@ class GunaVardhan:
 
 ---
 
-<!-- QUICK WIN BADGES -->
 <div align="center">
 
 ![](https://img.shields.io/badge/🏆_Hackathons_Won-4-7c3aed?style=for-the-badge&labelColor=0d0d0d)
@@ -79,37 +73,31 @@ class GunaVardhan:
 ## 🐍 Snake Eating My Contributions
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guna42/Guna42/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guna42/Guna42/output/github-snake.svg"/>
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Guna42/Guna42/output/github-snake-dark.svg" width="100%"/>
 </picture>
-
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- EMOLIT FLAGSHIP — full width -->
+<!-- ═══════════════ EMOLIT FLAGSHIP ═══════════════ -->
 <table width="100%">
 <tr>
-<td valign="top">
+<td width="62%" valign="top">
 
-<h3>🧠 Emolit — AI Mental Health & Emotion Platform &nbsp;<a href="https://emolit.duckdns.org"><img src="https://img.shields.io/badge/LIVE-10b981?style=flat-square&logo=amazonaws&logoColor=white"/></a></h3>
-
-<table>
-<tr>
-<td width="68%" valign="top">
+### 🧠 Emolit — AI Mental Health & Emotion Platform &nbsp; [![LIVE](https://img.shields.io/badge/LIVE-10b981?style=flat-square&logo=amazonaws&logoColor=white)](https://emolit.duckdns.org)
 
 > **3 ideathon wins · ₹70,000 in prizes · ₹50,000 research grant — built entirely solo.**
 
-Full production platform — web + Android — deployed on **AWS EC2**. Journal entries flow through a **Claude AI (Anthropic) RAG pipeline** grounded in RULER psychological frameworks, generating deeply empathetic mirror responses. Features interactive emotion wheel, visual mood calendar, daily affirmation engine.
+Full production platform — **web + Android** — deployed on **AWS EC2**. Journal entries flow through a **Claude AI (Anthropic) RAG pipeline** grounded in RULER psychological frameworks, generating deeply empathetic mirror responses. Features interactive emotion wheel, visual mood calendar, daily affirmation engine.
 
-**🥇 Texpo26** · Best Technical Innovation · ₹10,000 · 600+ teams<br/>
-**🥇 VLaunchPad (VIT)** · Best Beginner Stage Startup · ₹10,000 · 1500+ teams<br/>
-**🌱 ₹50,000 Research Seed Grant** — SRM University AP
+🥇 **Texpo26** · Best Technical Innovation · ₹10,000 · 600+ teams<br/>
+🥇 **VLaunchPad (VIT)** · Best Beginner Stage Startup · ₹10,000 · 1500+ teams<br/>
+🌱 **₹50,000 Research Seed Grant** — SRM University AP
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -119,13 +107,13 @@ Full production platform — web + Android — deployed on **AWS EC2**. Journal 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 </td>
-<td width="32%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="180px"/>
+<img src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="220px"/>
 
-</td>
-</tr>
-</table>
+<br/>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220px"/>
 
 </td>
 </tr>
@@ -133,47 +121,83 @@ Full production platform — web + Android — deployed on **AWS EC2**. Journal 
 
 <br/>
 
-<!-- PROJECT GRID 2x2 -->
-<table>
+<!-- ═══════════════ PROJECT GRID ═══════════════ -->
+<table width="100%">
 <tr>
+
+<!-- REPOTALK -->
 <td width="50%" valign="top">
 
-### 💬 RepoTalk — AI Codebase Assistant
+<table width="100%">
+<tr>
+<td valign="top" width="65%">
+
+### 💬 RepoTalk
+#### AI Codebase Assistant
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/repotalk)
 
-Natural language querying of **any GitHub repo**. AST-aware semantic chunking via **Tree-sitter**, hybrid retrieval (dense vector + BM25), streaming SSE with `file:line` citations.
+Natural language querying of **any GitHub repo**. AST-aware chunking via **Tree-sitter**, hybrid dense+BM25 retrieval, streaming SSE with `file:line` citations.
 
-**RAGAS Faithfulness `0.87` · Latency `< 3s`**
+**RAGAS `0.87` · Latency `< 3s`**
 
 ![Next.js 14](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![Groq Llama 3.3](https://img.shields.io/badge/Groq_Llama_3.3-F54D27?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq_Llama_3.3-F54D27?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
+<td valign="middle" align="center" width="35%">
+<img src="https://media.giphy.com/media/ZVik7pIojeebDd4bHi/giphy.gif" width="100px"/>
+</td>
+</tr>
+</table>
+
+</td>
+
+<!-- HER HAVEN -->
 <td width="50%" valign="top">
 
-### 🛡️ Her Haven — Women's Safety Platform
+<table width="100%">
+<tr>
+<td valign="top" width="65%">
+
+### 🛡️ Her Haven
+#### Women's Safety Platform
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/HerHaven)
 
-**🏆 HackVyuha 2k25 National Winner** — 750+ teams at GeeksForGeeks. AI avatar assistance, health tracking, steganography messaging via StegCloak.
+**🏆 HackVyuha 2k25 National Winner** — 750+ teams. AI avatar assistance, health tracking, steganography messaging via StegCloak.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square)
+![CV](https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square)
+
+</td>
+<td valign="middle" align="center" width="35%">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100px"/>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
+
 <tr>
+
+<!-- FRAUD DETECTION -->
 <td width="50%" valign="top">
 
-### 💳 Fraud Detection — Infosys Springboard
+<table width="100%">
+<tr>
+<td valign="top" width="65%">
+
+### 💳 Fraud Detection
+#### Infosys Springboard
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/FraudDetection)
 
-Explainable AI over **6.36M+ transactions** — LightGBM + SHAP + RAG-grounded LLM investigation reports via ChromaDB. Real-time scoring, batch scanning, executive dashboards.
+Explainable AI over **6.36M+ transactions** — LightGBM + SHAP + RAG-grounded LLM reports via ChromaDB. Real-time scoring, batch scanning, executive dashboards.
 
 **ROC-AUC `0.92` · Fraud Recall `95%`**
 
@@ -184,19 +208,40 @@ Explainable AI over **6.36M+ transactions** — LightGBM + SHAP + RAG-grounded L
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 </td>
+<td valign="middle" align="center" width="35%">
+<img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100px"/>
+</td>
+</tr>
+</table>
+
+</td>
+
+<!-- FARMEASY -->
 <td width="50%" valign="top">
 
-### 🌱 FarmEasy — Smart Agriculture AI
+<table width="100%">
+<tr>
+<td valign="top" width="65%">
+
+### 🌱 FarmEasy
+#### Smart Agriculture AI
 [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square)](http://13.60.229.213/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Guna42/Agrisage)
 
-CNN crop disease detection at **95%+ accuracy** across 20+ crop types. Modular Flask backend, structured inference + auth layers, serving real farmers via live AWS deployment.
+CNN crop disease detection at **95%+ accuracy** across 20+ crop types. Modular Flask backend — serving real farmers on live AWS deployment.
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</td>
+<td valign="middle" align="center" width="35%">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100px"/>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -206,28 +251,51 @@ CNN crop disease detection at **95%+ accuracy** across 20+ crop types. Modular F
 
 ## 💼 Experience
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-**🔬 Research Intern — Fog-Enabled Smart Hospital Systems**
+<td width="50%" valign="top">
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
+**🔬 Research Intern**
+**Fog-Enabled Smart Hospital Systems**
 `May 2025 – Jul 2025`
 
-Built **FastAPI** backend wiring **GNN-based** robotic tracking with **RL scheduling** across distributed fog nodes. Owned API schema design, async request handling, and inter-service orchestration across **5+ microservices**.
+Built **FastAPI** backend wiring **GNN-based** robotic tracking with **RL scheduling** across distributed fog nodes. Owned API schema, async handling, inter-service orchestration across **5+ microservices**.
 
 📉 Latency ↓ **68%** &nbsp;&nbsp; ⚡ Energy ↓ **20%**
 
 </td>
-<td width="50%" valign="top">
+<td width="30%" align="center" valign="middle">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90px"/>
+</td>
+</tr>
+</table>
+</td>
 
-**🤖 Machine Learning Intern — Infosys Springboard**
+<td width="50%" valign="top">
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
+**🤖 Machine Learning Intern**
+**Infosys Springboard**
 `Oct 2024 – Jan 2025`
 
-Built explainable AI fraud detection over **6.36M+ transactions**. SHAP-based explainability, RAG-grounded LLM investigation reports, real-time scoring pipeline, analyst dashboards.
+Built explainable AI fraud detection over **6.36M+ transactions**. SHAP explainability, RAG LLM reports, real-time scoring pipeline, analyst dashboards.
 
 📊 ROC-AUC **0.92** &nbsp;&nbsp; 🎯 Fraud Recall **95%**
 
 </td>
+<td width="30%" align="center" valign="middle">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="90px"/>
+</td>
+</tr>
+</table>
+</td>
+
 </tr>
 </table>
 
@@ -313,6 +381,8 @@ Built explainable AI fraud detection over **6.36M+ transactions**. SHAP-based ex
 ## 🤝 Let's Connect
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
 
 *"The best products don't just solve problems — they make people feel something."*
 
